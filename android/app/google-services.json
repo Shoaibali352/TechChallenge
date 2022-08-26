@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416024422332",
+    "project_id": "techchallenge-6fd28",
+    "storage_bucket": "techchallenge-6fd28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416024422332:android:8d0612b6728a27558b6db9",
+        "android_client_info": {
+          "package_name": "com.techchallenge.techchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416024422332-34evdrc949c2sqo89kojvs3poe7v5857.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfwViqdz_24DKMO6IsPRT_sr1D_yHCmwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416024422332-34evdrc949c2sqo89kojvs3poe7v5857.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
